@@ -1,0 +1,6 @@
+site_name: AnyContext Docs
+site_url: https://anycontext.io/docs
+theme:
+  name: material
+  palette:
+    scheme: slate
