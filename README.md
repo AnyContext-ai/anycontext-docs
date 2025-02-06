@@ -2,6 +2,9 @@
 
 See more documentation on https://squidfunk.github.io/mkdocs-material/getting-started/
 
+## Make changes to the documentation
+Make changes in the `docs` directory.
+
 ## Prerequisites for development
 - python3
 
