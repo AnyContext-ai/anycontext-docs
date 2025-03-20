@@ -6,3 +6,7 @@ theme:
     scheme: slate
   logo: assets/android-chrome-192x192.png
   favicon: assets/favicon.ico
+markdown_extensions:
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
